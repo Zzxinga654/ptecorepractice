@@ -33,9 +33,6 @@ Helping thousands of Canada PR applicants achieve their target CLB scores.
 ### Templates & Tips
 ![Templates & Tips](screenshots/templates-tips.png)
 
-### Pricing
-![Pricing](screenshots/pricing.png)
-
 ---
 
 ## ✨ Features
