@@ -24,8 +24,17 @@ Helping thousands of Canada PR applicants achieve their target CLB scores.
 ### Practice Tasks
 ![Practice Tasks](screenshots/practice-tasks.png)
 
-### AI-Powered Practice Interface
-![Practice Interface](screenshots/practice-interface.png)
+### AI-Powered Practice Interface (Read Aloud)
+![Read Aloud](screenshots/read-aloud.png)
+
+### CLB Calculator
+![CLB Calculator](screenshots/clb-calculator.png)
+
+### Templates & Tips
+![Templates & Tips](screenshots/templates-tips.png)
+
+### Pricing
+![Pricing](screenshots/pricing.png)
 
 ---
 
